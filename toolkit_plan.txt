@@ -1,0 +1,37 @@
+
+WEEK 8 ASSIGNMENT: PERSONAL MINI-TOOLKIT
+
+1. MY THREE TOOLS
+
+Tool 1: Simple Calculator
+This tool allows users to add, subtract, multiply, and divide two numbers.
+Concepts: Functions, user input, conditionals, loops, and f-strings.
+
+Tool 2: To-Do List
+This tool allows users to add tasks, view their tasks, and remove completed tasks.
+Concepts: Lists, loops, conditionals, and f-strings.
+
+Tool 3: Number Checker
+This tool checks whether a number is positive, negative, or zero and whether it is even or odd.
+Concepts: User input, conditionals, arithmetic operators, and f-strings.
+
+2. EXACT MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+1. Simple Calculator
+2. To-Do List
+3. Number Checker
+4. Quit
+
+Enter your choice (1-4):
+
+3. PROGRAM FLOW
+
+The program displays the menu using a while loop.
+The user selects a tool by entering a number.
+If, elif, and else statements decide which tool to run.
+After each tool finishes, the main menu appears again.
+The program ends when the user chooses Quit.
+Invalid choices receive a friendly error message.
